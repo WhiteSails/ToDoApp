@@ -1,2 +1,2 @@
 # ToDoApp
-To Do App with React
+React To Do App
